@@ -1,0 +1,30 @@
+{
+  "short_name": "@yanwinggg",
+  "name": "@yanwinggg",
+  "theme_color": "#4A90E2",
+  "background_color": "#F7F8F9",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "yanwinggg_48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "yanwinggg_96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "yanwinggg_144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "yanwinggg_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.html"
+}
